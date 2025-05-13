@@ -8,7 +8,8 @@ Welcome to **Wizard-Z**, a visually stunning web design project crafted entirely
 
 The **UI/UX** design of **Wizard-Z** is its true magic. Every section, element, and style has been thoughtfully placed to deliver:
 
-- ✨ Aesthetic color palettes  
+- ✨ Aesthetic color palettes
+- 🌟 Amazing Font Styles 
 - 🧩 Smooth layout flow  
 - 🎯 Intuitive content placement  
 - 🖋️ Elegant typography  
@@ -47,12 +48,6 @@ These additions would elevate the static design into an **interactive and immers
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here to showcase your UI design (optional but highly recommended)._
-
----
-
 ## 🤝 Contributing
 
 Currently, this is a personal learning project. Contributions, suggestions, and feedback are always welcome!
@@ -63,9 +58,8 @@ Currently, this is a personal learning project. Contributions, suggestions, and 
 
 For ideas, collaboration, or feedback, feel free to connect:
 
-- 📧 Email: [your-email@example.com]  
-- 🌐 Portfolio: [your-website.com] *(optional)*  
-- 💼 LinkedIn: [your-linkedin-profile] *(optional)*  
+- 📧 Email: arhumvista@gmail.com 
+- 💼 LinkedIn: www.linkedin.com/in/arhum-yasin-b79096332
 
 ---
 
